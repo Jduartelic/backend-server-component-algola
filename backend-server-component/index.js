@@ -25,5 +25,5 @@ mongoose.connect('mongodb://admin:CF1kaynanc1al@ds133262.mlab.com:33262/algolia'
             console.log("servidor corriendo en http://localhost:3800");
         });
     })
-    // Si no se conecta correctamente escupimos el error
-    .catch(err => console.log(err));
+// Si no se conecta correctamente mostramos el error
+.catch(err => console.log(err));
