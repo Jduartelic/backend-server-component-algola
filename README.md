@@ -1,6 +1,6 @@
-backend-server-component-algola
+# backend-server-component-algola
 
-SET UP:
+# Set Up:
 
 1- Pull from master branch.
 
